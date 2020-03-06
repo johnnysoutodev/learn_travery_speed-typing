@@ -1,0 +1,10 @@
+/* style.css */
+
+body {
+  background-color: #ccc;
+}
+
+.card {
+  border: 10px;
+  background-color: #fff;
+}
